@@ -1,6 +1,6 @@
 # Find Resto with API Zomato
-This application for show restaurant nearby your location. use API from Zomato for get data.
+This application for show restaurant nearby your location. use API from Zomato for get data and kotlin for programming language.
 
 
 ## References
-* [Tutorial](#https://rivaldi48.blogspot.com/2020/09/Tutorial-Membuat-Aplikasi-Pencarian-Restoran-dengan-Zomato-API.html)
+* [Tutorial](https://rivaldi48.blogspot.com/2020/09/Tutorial-Membuat-Aplikasi-Pencarian-Restoran-dengan-Zomato-API.html)
